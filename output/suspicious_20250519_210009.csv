@@ -1,0 +1,4 @@
+line,date,type,user,ip,message
+1,2025-05-19,failed_login,admin,192.168.1.10,1: 2025-05-19 - Failed login by admin from 192.168.1.10
+2,2025-05-19,invalid_user,root,10.0.0.8,2: 2025-05-19 - Invalid user root from 10.0.0.8
+3,2025-05-19,sudo_fail,damian,,3: 2025-05-19 - Sudo authentication failure for damian
